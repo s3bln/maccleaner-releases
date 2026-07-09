@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>MacCleaner</title>
+    <item>
+      <title>1.1</title>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 +0200</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <h2>MacCleaner 1.1</h2>
+        <ul>
+          <li>Nouveau : désinstallateur d'applications (app + fichiers associés vers la Corbeille)</li>
+          <li>Nouveau : recherche des gros fichiers avec filtres taille/âge</li>
+          <li>Nouveau : score de confiance sur les résidus d'applications</li>
+          <li>Nouveau : nettoyage automatique quotidien des vieux caches (optionnel)</li>
+          <li>Nouveau : icône dans la barre de menus avec surveillance disque/RAM</li>
+          <li>Nouveau : historique « libéré ce mois-ci » sur le tableau de bord</li>
+          <li>Suppressions plus sûres : tout passe par la Corbeille (récupérable)</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/s3bln/maccleaner-releases/releases/download/v1.1/MacCleaner-1.1.dmg"
+        sparkle:edSignature="b/Ozrh2vk+MnGL5IN1LQBQ6Vbg9H/FyBcU/hdqDjGLiJ4rckoLr/a5ioGj0dCrqlVXY9CR7Fy1i+wJi8LTq0Bw=="
+        length="2449490"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
