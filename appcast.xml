@@ -3,6 +3,18 @@
   <channel>
     <title>MacCleaner</title>
     <item>
+      <title>1.6.4</title>
+      <pubDate>Sat, 11 Jul 2026 23:40:13 +0200</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/s3bln/maccleaner-releases/releases/download/v1.6.4/MacCleaner-1.6.4.dmg"
+        sparkle:edSignature="YJfldxxvIY40dwKTOncaqturinsZaPCNqgKTfDw4fPOkJvBnXlB+XLHzY44SnI2YyxG8NdjHVsEqtxhllswMAA=="
+        length="3131106"
+        type="application/octet-stream"/>
+    </item>
+    <item>
       <title>1.6.3</title>
       <pubDate>Fri, 10 Jul 2026 14:29:01 +0200</pubDate>
       <sparkle:version>10</sparkle:version>
